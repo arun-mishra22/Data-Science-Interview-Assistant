@@ -1,0 +1,49 @@
+{
+  "builder_name": "csv",
+  "citation": "",
+  "config_name": "default",
+  "dataset_size": 252239,
+  "description": "",
+  "download_checksums": {
+    "C:\\Users\\arun4\\OneDrive\\Desktop\\LLM\\ml_interview_questions.csv": {
+      "num_bytes": 247312,
+      "checksum": null
+    }
+  },
+  "download_size": 247312,
+  "features": {
+    "instruction": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "input": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "output": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 499551,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 252239,
+      "num_examples": 502,
+      "dataset_name": "csv"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
